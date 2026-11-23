@@ -91,8 +91,8 @@ Todos os arquivos precisam ficar **na mesma pasta**, que é de onde o programa �
 
 ### 2. Baixar o projeto
 ```
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/Gabriel-N-Martins/impressora-elgin-c.git
+cd impressora-elgin-c
 ```
 Ou clique em **Code → Download ZIP** e extraia.
 
