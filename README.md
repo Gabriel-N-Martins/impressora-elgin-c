@@ -148,7 +148,5 @@ Dá para testar a lógica do programa mesmo sem a Elgin:
 
 ## 👥 Autores
 
-(em ordem alfabética)
-
 - Gabriel Ferreira Nobre Martins - 259786
 - Julio Cesar de Oliveira Rosario - 260594
