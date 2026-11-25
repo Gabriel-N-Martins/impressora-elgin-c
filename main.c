@@ -225,7 +225,7 @@ void imprimirTexto(void) {
     int i;
     for (i = 1; i <= copias; i++) {
         int retorno = ImpressaoTexto(texto, 1, 4, 0);       /* ImpressaoTexto: posicao 1, estilo 4, tamanho 0 */
-        if (retorno >= 0) {
+        if (retorno = 0) {
             printf("Copia %d impressa!\n", i);
         } else {
             printf("Erro ao imprimir. Codigo: %d\n", retorno);
@@ -456,4 +456,5 @@ int main(void) {
 
     FreeLibrary(dll);
     return 0;
-}
+}
+
